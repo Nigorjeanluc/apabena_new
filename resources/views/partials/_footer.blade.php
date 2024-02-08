@@ -48,7 +48,7 @@
 					<div class="copyright">
 						<p>&copy; APABENA - All Right Reserved | <a href="/login">admin</a></p>
                         <div class="credits">
-                            Developed by <a href="https://www.facebook.com/spartacus.amphoteric" target="_blank" rel="nofollow">Eng. Igor Jean-Luc NDIRAMIYE</a>
+                            Developed by <a href="https://ndiramiye.netlify.app/" target="_blank" rel="nofollow">Eng. Igor Jean-Luc NDIRAMIYE</a>
                         </div>
 					</div>
 				</div>

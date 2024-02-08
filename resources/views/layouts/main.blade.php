@@ -5,7 +5,7 @@
   <link rel="shortcut icon" href="img/logo1.png" />
   <title>@yield('title') | APABENA</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Bootstrap 3 template for corporate business" />
+  <meta name="description" content="APABENA is a Non-Governmental Organization" />
   @include('partials._css')
   @yield('style')
 </head>
